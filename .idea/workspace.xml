@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d008e420-a93b-4246-9421-6a05c015317e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/0003.Longest-Substring-Without-Repeating-Characters/3. Longest Substring Without Repeating Characters copy.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/0001.Two-Sum/1. Two Sum_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0001.Two-Sum/1. Two Sum_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/0002.Add-Two-Numbers/2. Add Two Numbers_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0002.Add-Two-Numbers/2. Add Two Numbers_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/0003.Longest-Substring-Without-Repeating-Characters/3. Longest Substring Without Repeating Characters_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0003.Longest-Substring-Without-Repeating-Characters/3. Longest Substring Without Repeating Characters_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.7/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iGjbjrpwVIjEJioI6azhr4K7BS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/leetcode/0003.Longest-Substring-Without-Repeating-Characters" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.Test_Problem3 in LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters (4)">
+    <configuration name="Test_Problem3 in LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-Go" />
+      <working_directory value="$PROJECT_DIR$/leetcode/0003.Longest-Substring-Without-Repeating-Characters" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_Problem3\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_Problem3 in LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-Go" />
+      <working_directory value="$PROJECT_DIR$/leetcode/0003.Longest-Substring-Without-Repeating-Characters" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_Problem3\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_Problem3 in LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters (3)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-Go" />
+      <working_directory value="$PROJECT_DIR$/leetcode/0003.Longest-Substring-Without-Repeating-Characters" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_Problem3\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_Problem3 in LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters (4)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-Go" />
+      <working_directory value="$PROJECT_DIR$/leetcode/0003.Longest-Substring-Without-Repeating-Characters" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_Problem3\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_Problem3 in LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-Go" />
+      <working_directory value="$PROJECT_DIR$/leetcode/0003.Longest-Substring-Without-Repeating-Characters" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_Problem3\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.Test_Problem3 in LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters (4)" />
+        <item itemvalue="Go Test.Test_Problem3 in LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters (3)" />
+        <item itemvalue="Go Test.Test_Problem3 in LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters (2)" />
+        <item itemvalue="Go Test.Test_Problem3 in LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters (1)" />
+        <item itemvalue="Go Test.Test_Problem3 in LeetCode-Go/leetcode/0003.Longest-Substring-Without-Repeating-Characters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="175" width="552" height="584" key="#Build_Tags_&amp;_Vendoring" timestamp="1601563464440">
+      <screen x="0" y="23" width="1395" height="877" />
+    </state>
+    <state x="421" y="175" width="552" height="584" key="#Build_Tags_&amp;_Vendoring/0.23.1395.877@0.23.1395.877" timestamp="1601563464440" />
+    <state x="368" y="291" key="#Notifications" timestamp="1601601691205">
+      <screen x="0" y="23" width="1395" height="877" />
+    </state>
+    <state x="368" y="291" key="#Notifications/0.23.1395.877@0.23.1395.877" timestamp="1601601691205" />
+    <state x="434" y="332" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601600696614">
+      <screen x="0" y="23" width="1395" height="877" />
+    </state>
+    <state x="434" y="332" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1395.877@0.23.1395.877" timestamp="1601600696614" />
+    <state x="579" y="328" key="EnvironmentVariablesDialog" timestamp="1601601855745">
+      <screen x="0" y="23" width="1395" height="877" />
+    </state>
+    <state x="579" y="328" key="EnvironmentVariablesDialog/0.23.1395.877@0.23.1395.877" timestamp="1601601855745" />
+    <state width="1351" height="336" key="GridCell.Tab.0.bottom" timestamp="1601735157166">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1351" height="285" key="GridCell.Tab.0.bottom/0.23.1395.877@0.23.1395.877" timestamp="1601714620990" />
+    <state width="1351" height="336" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1601735157166" />
+    <state width="1351" height="336" key="GridCell.Tab.0.center" timestamp="1601735157165">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1351" height="285" key="GridCell.Tab.0.center/0.23.1395.877@0.23.1395.877" timestamp="1601714620989" />
+    <state width="1351" height="336" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1601735157165" />
+    <state width="1351" height="336" key="GridCell.Tab.0.left" timestamp="1601735157164">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1351" height="285" key="GridCell.Tab.0.left/0.23.1395.877@0.23.1395.877" timestamp="1601714620989" />
+    <state width="1351" height="336" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1601735157164" />
+    <state width="1351" height="336" key="GridCell.Tab.0.right" timestamp="1601735157165">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1351" height="285" key="GridCell.Tab.0.right/0.23.1395.877@0.23.1395.877" timestamp="1601714620989" />
+    <state width="1351" height="336" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1601735157165" />
+    <state width="1351" height="285" key="GridCell.Tab.1.bottom" timestamp="1601735156812">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1351" height="285" key="GridCell.Tab.1.bottom/0.23.1395.877@0.23.1395.877" timestamp="1601714620992" />
+    <state width="1351" height="285" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1601735156812" />
+    <state width="1351" height="285" key="GridCell.Tab.1.center" timestamp="1601735156809">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1351" height="285" key="GridCell.Tab.1.center/0.23.1395.877@0.23.1395.877" timestamp="1601714620991" />
+    <state width="1351" height="285" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1601735156809" />
+    <state width="1351" height="285" key="GridCell.Tab.1.left" timestamp="1601735156808">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1351" height="285" key="GridCell.Tab.1.left/0.23.1395.877@0.23.1395.877" timestamp="1601714620990" />
+    <state width="1351" height="285" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1601735156808" />
+    <state width="1351" height="285" key="GridCell.Tab.1.right" timestamp="1601735156810">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1351" height="285" key="GridCell.Tab.1.right/0.23.1395.877@0.23.1395.877" timestamp="1601714620991" />
+    <state width="1351" height="285" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1601735156810" />
+    <state x="209" y="23" key="SettingsEditor" timestamp="1601730031113">
+      <screen x="0" y="23" width="1395" height="877" />
+    </state>
+    <state x="209" y="23" key="SettingsEditor/0.23.1395.877@0.23.1395.877" timestamp="1601730031113" />
+    <state x="378" y="94" width="639" height="735" key="find.popup" timestamp="1601563540002">
+      <screen x="0" y="23" width="1395" height="877" />
+    </state>
+    <state x="378" y="94" width="639" height="735" key="find.popup/0.23.1395.877@0.23.1395.877" timestamp="1601563540002" />
+  </component>
+</project>

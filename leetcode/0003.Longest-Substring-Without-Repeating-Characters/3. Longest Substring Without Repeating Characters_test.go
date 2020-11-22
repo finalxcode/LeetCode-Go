@@ -45,13 +45,18 @@ func Test_Problem3(t *testing.T) {
 			para3{""},
 			ans3{0},
 		},
+		{
+			para3{"12341234"},
+			ans3{4},
+		},
 	}
 
 	fmt.Printf("------------------------Leetcode Problem 3------------------------\n")
 
 	for _, q := range qs {
 		_, p := q.ans3, q.para3
-		fmt.Printf("【input】:%v       【output】:%v\n", p, lengthOfLongestSubstring_(p.s))
+		//fmt.Printf("【input】:%v       【output】:%v\n", p, lengthOfLongestSubstring_(p.s))
+		fmt.Printf("【input】:%v       【output】:%v\n", p, lengthOfLongestSubstringV0(p.s))
 	}
 	fmt.Printf("\n\n\n")
 }
